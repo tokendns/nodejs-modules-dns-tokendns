@@ -1,0 +1,6 @@
+{
+	"name": "tokendns_api_client",
+	"dependencies": {
+		"request": "*"
+	}
+}
