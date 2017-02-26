@@ -3,12 +3,6 @@ NAME
 
 NodeJS extension for www.tokendns.co API
 
-SYNOPSIS
--------
-
-  use DNS::TokenDNS;
-  Manage your DNS records and domains
-
 DESCRIPTION
 -------
 
